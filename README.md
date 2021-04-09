@@ -1,0 +1,35 @@
+> # Entrance-Papers
+>
+> <br/>This repo. contains Jamia Millia Islamia previous years papers.
+> <br/>**Visiting website with your smartphone**, please click on <b>View Code</b> or <b>Request Desktop Version of a Web site.</b><br/>
+
+<hr/><img src="/Misc/img1.jpeg"/>
+<br/>
+
+> **Search Entrance Papers** by clicking on **Go to a file**
+
+<hr/><img src="/Misc/img2.jpg"/>
+<br/>
+<hr/>
+
+> <p>Some of the entrance papers are common for several courses those papers may or may not be available in the all the corresponding repo. directory.
+> For more info please refer : <a href="/Misc/Common_Entrance_Test_For_The_Group_B01_B04_B05_B06_Others.pdf" title="Course Groups"> Common Entrance Test Course Group </a></p>
+
+<br/>
+<br/>
+
+> <h1>For latest updates please checkout <a href="https://www.jmi.ac.in/" title="Jamia Millia Islamia">jmi.ac.in</a></h1>
+> <br/>
+> <br/>
+
+> <h2><b>Guidlines for addding new papers</b></h2>
+
+- Always compress files before uploading <a href="https://www.ilovepdf.com/compress_pdf">Link</a>.
+- Use snake_case for file naming.
+- Never use **.**(dot) in between file name.
+- Refer <a href="https://www.jmi.ac.in/studyatjamia/courseslist/regular">courses list</a>
+
+<br/>
+<br/>
+
+> **P.S.** _If anyone wants to share JMI entrance papers, do mail us at <a href="mailto:wasitshafi700@gmail.com">wasitshafi700@gmail.com</a>_
