@@ -7,7 +7,7 @@
 <img src="/Misc/img1.jpeg"/>
 <br/>
 
-> **Search Entrance Papers** by clicking on **Go to a file**
+> **Search Entrance Papers** by clicking on **Go to a file**<br/>
 
 <img src="/Misc/img2.jpg"/>
 <br/>
