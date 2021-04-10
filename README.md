@@ -1,16 +1,16 @@
 > # Entrance-Papers
 >
 > <br/>This repo. contains Jamia Millia Islamia previous years papers.
-> <br/>**Visiting website with your smartphone**, please click on <b>View Code</b> or <b>Request Desktop Version of a Web site.</b><br/>
+> <br/>**Visiting website with your smartphone**, please click on <b>View Code</b> or <b>Request Desktop Version of a Web site.</b>
 
-<hr/><img src="/Misc/img1.jpeg"/>
+
+<img src="/Misc/img1.jpeg"/>
 <br/>
 
 > **Search Entrance Papers** by clicking on **Go to a file**
 
-<hr/><img src="/Misc/img2.jpg"/>
+<img src="/Misc/img2.jpg"/>
 <br/>
-<hr/>
 
 > <p>Some of the entrance papers are common for several courses those papers may or may not be available in the all the corresponding repo. directory.
 > For more info please refer : <a href="/Misc/Common_Entrance_Test_For_The_Group_B01_B04_B05_B06_Others.pdf" title="Course Groups"> Common Entrance Test Course Group </a></p>
