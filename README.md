@@ -26,6 +26,7 @@
 
 - Always compress files before uploading <a href="https://www.ilovepdf.com/compress_pdf">Link</a>.
 - Use snake_case for file naming.
+- File name should be like **_course_year_set_** eg: **_Master_of_Computer_Application_2021_SetA.pdf_**, **_MCA_2021_SetA.pdf_** etc.
 - Never use **.**(dot) in between file name.
 - Refer <a href="https://www.jmi.ac.in/studyatjamia/courseslist/regular">courses list</a>
 
