@@ -19,8 +19,8 @@
 <br/>
 
 > <h1>For latest updates please checkout <a href="https://www.jmi.ac.in/" title="Jamia Millia Islamia">jmi.ac.in</a></h1>
-> <br/>
-> <br/>
+<br/>
+<br/>
 
 > <h2><b>Guidlines for addding new papers</b></h2>
 
