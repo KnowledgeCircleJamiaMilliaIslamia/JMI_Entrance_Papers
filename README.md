@@ -33,4 +33,4 @@
 <br/>
 <br/>
 
-> **P.S.** _If anyone wants to share JMI entrance papers, do mail us at <a href="mailto:wasitshafi700@gmail.com">wasitshafi700@gmail.com</a>_
+> **P.S.** _If anyone wants to share JMI entrance papers, do mail us at <a href="mailto:knowledgecircle.jmi@gmail.com">knowledgecircle.jmi@gmail.com</a>_
