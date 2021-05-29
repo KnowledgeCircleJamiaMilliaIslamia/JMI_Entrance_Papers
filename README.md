@@ -1,7 +1,12 @@
 > # Entrance-Papers
->
-> <br/>This repo. contains Jamia Millia Islamia previous years papers.
-> <br/>**Visiting website with your smartphone**, please click on <b>View Code</b> or <b>Request Desktop Version of a Web site.</b>
+> This repo. contains Jamia Millia Islamia previous years papers.
+
+> # Donwload papers from our website : 
+> <a href='https://knowledgecirclejamiamilliaislamia.github.io/'>knowledgecirclejamiamilliaislamia<a/>
+
+  
+> # **Visiting website with your smartphone**
+> please click on <b>View Code</b> or <b>Request Desktop Version of a Web site.</b>
 
 
 <img src="/Misc/img1.jpeg"/>
