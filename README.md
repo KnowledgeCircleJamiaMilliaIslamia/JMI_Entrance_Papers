@@ -1,5 +1,5 @@
 > # Entrance-Papers
-> This repo. includes Jamia Millia Islamia previous years papers.
+> This repo includes Jamia Millia Islamia previous years papers.
 
 > # Download papers from our website : 
 > <a href='https://knowledgecirclejamiamilliaislamia.github.io/'><h2>www.knowledgecirclejamiamilliaislamia.github.io</h2><a/>
