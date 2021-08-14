@@ -33,7 +33,7 @@
 - Use snake_case for file naming.
 - Never use **.**(dot) in between file name.
 - File name should be like **_course_year_set_** eg: **_Master_of_Computer_Application_2021_SetA.pdf_**, **_MCA_2021_SetA.pdf_** etc.
-- Directory structure should be proplery maintained eg: **Masters_Programmes/MA/Political Science/Masters_of_Political_Science_2021_SetA.pdf** etc
+- Directory structure should be properly maintained eg: **Masters_Programmes/MA/Political Science/Masters_of_Political_Science_2021_SetA.pdf** etc
 - Refer <a href="https://www.jmi.ac.in/studyatjamia/courseslist/regular">courses list</a> for file and directory naming.
 
 <br/>
