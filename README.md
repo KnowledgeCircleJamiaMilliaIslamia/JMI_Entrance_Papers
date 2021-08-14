@@ -41,6 +41,6 @@
   
   ><h2><b>Contributing</b></h2>
   
-  If you want to contribute to JMI_Entrance_Papers, be sure to review the guidlines mentioned above for added in papers. We look forward to receiving your pull requests.
+  If you want to contribute to **JMI_Entrance_Papers**, be sure to review the guidlines mentioned above for added in papers. We look forward to receiving your pull requests.
 
 > **P.S.** _If anyone wants to share JMI entrance papers, do mail us at <a href="mailto:knowledgecircle.jmi@gmail.com">knowledgecircle.jmi@gmail.com</a>_
