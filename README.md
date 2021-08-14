@@ -31,11 +31,16 @@
 
 - Always compress files before uploading <a href="https://www.ilovepdf.com/compress_pdf">Link</a>.
 - Use snake_case for file naming.
-- File name should be like **_course_year_set_** eg: **_Master_of_Computer_Application_2021_SetA.pdf_**, **_MCA_2021_SetA.pdf_** etc.
 - Never use **.**(dot) in between file name.
-- Refer <a href="https://www.jmi.ac.in/studyatjamia/courseslist/regular">courses list</a>
+- File name should be like **_course_year_set_** eg: **_Master_of_Computer_Application_2021_SetA.pdf_**, **_MCA_2021_SetA.pdf_** etc.
+- Directory structure should be proplery maintained eg: **Masters_Programmes/MA/Political Science/Masters_of_Political_Science_2021_SetA.pdf** etc
+- Refer <a href="https://www.jmi.ac.in/studyatjamia/courseslist/regular">courses list</a> for file and directory naming.
 
 <br/>
 <br/>
+  
+  ><h2><b>Contributing</b></h2>
+  
+  If you want to contribute to JMI_Entrance_Papers, be sure to review the guidlines mentioned above for added in papers. We look forward to receiving your pull requests.
 
 > **P.S.** _If anyone wants to share JMI entrance papers, do mail us at <a href="mailto:knowledgecircle.jmi@gmail.com">knowledgecircle.jmi@gmail.com</a>_
